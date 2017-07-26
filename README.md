@@ -23,12 +23,12 @@ This workshop is primarily about narratives and representation. While we will us
 
 Small Data Squad, Dan Taeyoung and Melanie Hoff is an internet forensics agency specializing in consensual internet self-stalking. Dan Taeyoung works at the intersection of architecture, technology and community, and is an adjunct assistant professor at Columbia GSAPP teaching on experimental design tools and representational practices. Melanie Hoff is an artist and technologist focusing on the relationship between cooperation and ideology as they scale from interpersonal exchange to state governance.
 
-#Schedule
+# Schedule
 * Introductions and opening ritual.
 * Indexical portraiture presentation.
 * Research Activity and sharing.
 * Walk-thru of downloading your google search queries.
 * Intro to terminal.
 * Emulsion
-* 
+sssss* cfs
    
