@@ -1,6 +1,6 @@
 ![alt text](https://melanie-hoff.com/_images/datacindy.jpg)
 # Hello everyone and welcome!
-* Before we do anything else, we'd like to ask that you go to **[THIS LINK](https://takeout.google.com/settings/takeout/custom/search)**.<br>
+* At the beginning of the workshop, we'd like to ask that you go to **[THIS LINK](https://takeout.google.com/settings/takeout/custom/search)**.<br>
 * Click **'NEXT'** and then click **'CREATE ARCHIVE'**.<br>
 
   🗄Downloading to your hard drive is an archive of everything you've ever typed into that default blank search bar. Maybe you were looking for answers, for empathy, or how to clean the back of your tongue 👅. Think of these files as raw material for the expression and understanding of your self.
@@ -8,10 +8,16 @@
  # Schedule
 
  * Introductions and opening ritual.
+ * Google query download 
  * Indexical portraiture presentation.
- * Research Activity and sharing.
+ * Quick discussion
  * Intro to terminal.
- * **[Emulsion](https://github.com/smalldatasquad/emulsion)**
+ * **[Emulsion Workshop](https://github.com/smalldatasquad/emulsion)**
+ * BREAK
+ * Share answer to question with a query
+ * Data Double Expose excercise
+ * Blurred Class Portrait closing excercise
+ 
 
 # Description
 Data is factual in the same way that data is truthful. Which is to say: not at all.
