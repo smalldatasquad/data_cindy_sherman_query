@@ -1,5 +1,11 @@
 ![alt text](https://melanie-hoff.com/_images/datacindy.jpg)
-
+### If you're in the class right now at Pioneer Works, scroll down until it says 'LOOK AT ME'!
+###
+###    |
+###    |
+###    |
+###    |
+###    V
 # Description
 Data is factual in the same way that data is truthful. Which is to say: not at all.
 
@@ -9,10 +15,10 @@ We’ll work with simple software and custom scripts in Python to download, proc
 
 As in Cindy Sherman’s work, our personal data can be crafted differently to form different narratives. Done unto us outside of our control, the imposition of a persona is frightening. Created by ourselves, crafted narratives and personas can be empowering and exciting.
 
-Materials:
+**Materials:**
 A laptop, easy access to your own email & social media accounts.
 
-Audience:
+**Audience:**
 This workshop is primarily about narratives and representation. While we will use some scripts and Python code, no prior coding experience is necessary. An enthusiastic willingness to play data-dress-up is required.
 
 Small Data Squad, Dan Taeyoung and Melanie Hoff is an internet forensics agency specializing in consensual internet self-stalking. Dan Taeyoung works at the intersection of architecture, technology and community, and is an adjunct assistant professor at Columbia GSAPP teaching on experimental design tools and representational practices. Melanie Hoff is an artist and technologist focusing on the relationship between cooperation and ideology as they scale from interpersonal exchange to state governance.
