@@ -3,7 +3,7 @@
 * Before we do anything else, we'd like to ask that you go to **[THIS LINK](https://takeout.google.com/settings/takeout/custom/search)**.<br>
 * Click **'NEXT'** and then click **'CREATE ARCHIVE'**.<br>
 
-  📥 Downloading to your hard drive is an archive of everything you've ever typed into that default blank search bar. Maybe you were looking for answers, for empathy, or how to clean the back of your tongue 👅. Think of these files as raw material for the expression and understanding of your self. 🤳
+  🗄Downloading to your hard drive is an archive of everything you've ever typed into that default blank search bar. Maybe you were looking for answers, for empathy, or how to clean the back of your tongue 👅. Think of these files as raw material for the expression and understanding of your self.
 
 
 # Description
@@ -23,12 +23,11 @@ This workshop is primarily about narratives and representation. While we will us
 
 Small Data Squad, Dan Taeyoung and Melanie Hoff is an internet forensics agency specializing in consensual internet self-stalking. Dan Taeyoung works at the intersection of architecture, technology and community, and is an adjunct assistant professor at Columbia GSAPP teaching on experimental design tools and representational practices. Melanie Hoff is an artist and technologist focusing on the relationship between cooperation and ideology as they scale from interpersonal exchange to state governance.
 
-# Schedule
+#Schedule
 * Introductions and opening ritual.
 * Indexical portraiture presentation.
 * Research Activity and sharing.
 * Walk-thru of downloading your google search queries.
 * Intro to terminal.
-* Emulsion
-sssss* cfs
-   
+* **[Emulsion](https://takeout.google.com/settings/takeout/custom/search)**
+*
