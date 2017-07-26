@@ -1,11 +1,7 @@
 ![alt text](https://melanie-hoff.com/_images/datacindy.jpg)
-### If you're in the class right now at Pioneer Works, scroll down until it says 'LOOK AT ME'!
-###
-###    |
-###    |
-###    |
-###    |
-###    V
+# Hello everyone! Welcome to *Data Cindy, Sherman Query*.
+Before we do anything else, we'd like to ask that you go to **[this link](https://takeout.google.com/settings/takeout/custom/search)** where you will be given access to your google search queries. Click **'Next'** and then click **'Creat archive'**. 
+
 # Description
 Data is factual in the same way that data is truthful. Which is to say: not at all.
 
@@ -22,3 +18,11 @@ A laptop, easy access to your own email & social media accounts.
 This workshop is primarily about narratives and representation. While we will use some scripts and Python code, no prior coding experience is necessary. An enthusiastic willingness to play data-dress-up is required.
 
 Small Data Squad, Dan Taeyoung and Melanie Hoff is an internet forensics agency specializing in consensual internet self-stalking. Dan Taeyoung works at the intersection of architecture, technology and community, and is an adjunct assistant professor at Columbia GSAPP teaching on experimental design tools and representational practices. Melanie Hoff is an artist and technologist focusing on the relationship between cooperation and ideology as they scale from interpersonal exchange to state governance.
+
+#Schedule
+* Introductions and opening ritual.
+* Indexical portraiture presentation.
+* Research Activity and sharing.
+* Walk-thru of downloading your google search queries.
+* Intro to terminal.
+* Emulsion
