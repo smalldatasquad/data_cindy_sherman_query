@@ -1,6 +1,6 @@
 ![alt text](https://melanie-hoff.com/_images/datacindy.jpg)
-# Hello everyone! Welcome to *Data Cindy, Sherman Query*.
-Before we do anything else, we'd like to ask that you go to **[this link](https://takeout.google.com/settings/takeout/custom/search)** where you will be given access to your google search queries. Click **'Next'** and then click **'Creat archive'**. 
+# Hello everyone and welcome!
+Before we do anything else, we'd like to ask that you go to ###**[this link](https://takeout.google.com/settings/takeout/custom/search)**### where you will be given access to your google search queries. Click ###**'Next'**### and then click ###**'Creat archive'**###.
 
 # Description
 Data is factual in the same way that data is truthful. Which is to say: not at all.
