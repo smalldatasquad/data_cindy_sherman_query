@@ -5,6 +5,13 @@
 
   🗄Downloading to your hard drive is an archive of everything you've ever typed into that default blank search bar. Maybe you were looking for answers, for empathy, or how to clean the back of your tongue 👅. Think of these files as raw material for the expression and understanding of your self.
 
+ # Schedule
+
+ * Introductions and opening ritual.
+ * Indexical portraiture presentation.
+ * Research Activity and sharing.
+ * Intro to terminal.
+ * **[Emulsion](https://github.com/smalldatasquad/emulsion)**
 
 # Description
 Data is factual in the same way that data is truthful. Which is to say: not at all.
@@ -22,12 +29,3 @@ A laptop, easy access to your own email & social media accounts.
 This workshop is primarily about narratives and representation. While we will use some scripts and Python code, no prior coding experience is necessary. An enthusiastic willingness to play data-dress-up is required.
 
 Small Data Squad, Dan Taeyoung and Melanie Hoff is an internet forensics agency specializing in consensual internet self-stalking. Dan Taeyoung works at the intersection of architecture, technology and community, and is an adjunct assistant professor at Columbia GSAPP teaching on experimental design tools and representational practices. Melanie Hoff is an artist and technologist focusing on the relationship between cooperation and ideology as they scale from interpersonal exchange to state governance.
-
-#Schedule
-* Introductions and opening ritual.
-* Indexical portraiture presentation.
-* Research Activity and sharing.
-* Walk-thru of downloading your google search queries.
-* Intro to terminal.
-* **[Emulsion](https://takeout.google.com/settings/takeout/custom/search)**
-*
