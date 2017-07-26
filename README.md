@@ -3,7 +3,7 @@
 * Before we do anything else, we'd like to ask that you go to **[THIS LINK](https://takeout.google.com/settings/takeout/custom/search)**.<br>
 * Click **'NEXT'** and then click **'CREATE ARCHIVE'**.<br>
 
-  🗄 Downloading to your hard drive is an archive of everything you've ever typed into that default blank search bar. Maybe you were looking for answers, for empathy, or how to clean the back of your tongue 👅. Think of these files as raw material for the expression and understanding of your self. 
+  📥 Downloading to your hard drive is an archive of everything you've ever typed into that default blank search bar. Maybe you were looking for answers, for empathy, or how to clean the back of your tongue 👅. Think of these files as raw material for the expression and understanding of your self. 🤳
 
 
 # Description
