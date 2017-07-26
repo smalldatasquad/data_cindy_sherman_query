@@ -1,6 +1,9 @@
 ![alt text](https://melanie-hoff.com/_images/datacindy.jpg)
 # Hello everyone and welcome!
-Before we do anything else, we'd like to ask that you go to ###**[this link](https://takeout.google.com/settings/takeout/custom/search)**### where you will be given access to your google search queries. Click ###**'Next'**### and then click ###**'Creat archive'**###.
+Before we do anything else, we'd like to ask that you go to **[THIS LINK](https://takeout.google.com/settings/takeout/custom/search)**.
+Click **'NEXT'** and then click **'CREATE ARCHIVE'**.
+Downloading to your hard drive is an archive of everything you've ever typed into that default blank search bar. Maybe you were looking for answers, for empathy, or how to clean the back of your tongue 👅. Think of these files as raw material for the expression and understanding of your self. 
+
 
 # Description
 Data is factual in the same way that data is truthful. Which is to say: not at all.
