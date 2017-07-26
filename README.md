@@ -1,3 +1,5 @@
+![alt text](https://melanie-hoff.com/_images/datacindy.jpg)
+
 # Description
 Data is factual in the same way that data is truthful. Which is to say: not at all.
 
