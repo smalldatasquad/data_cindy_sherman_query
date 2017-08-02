@@ -5,8 +5,9 @@
 
   🗄Downloading to your hard drive is an archive of everything you've ever typed into that default blank search bar. Maybe you were looking for answers, for empathy, or how to clean the back of your tongue 👅. Think of these files as raw material for the expression and understanding of your self.
 
-Panorama: https://github.com/smalldatasquad/panorama
-Album: https://github.com/smalldatasquad/album
+# Repos
+* Panorama: https://github.com/smalldatasquad/panorama
+* Album: https://github.com/smalldatasquad/album
  
 
 # Description
