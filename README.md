@@ -5,18 +5,7 @@
 
   🗄Downloading to your hard drive is an archive of everything you've ever typed into that default blank search bar. Maybe you were looking for answers, for empathy, or how to clean the back of your tongue 👅. Think of these files as raw material for the expression and understanding of your self.
 
- # Schedule
-
- * Introductions and opening ritual.
- * Google query download 
- * Indexical portraiture presentation.
- * Quick discussion
- * Intro to terminal.
- * **[Emulsion Workshop](https://github.com/smalldatasquad/emulsion)**
- * BREAK
- * Share answer to question with a query
- * Data Double Expose excercise
- * Blurred Class Portrait closing excercise
+Album: https://github.com/smalldatasquad/album
  
 
 # Description
